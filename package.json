@@ -1,7 +1,7 @@
 {
   "name": "thefriendfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "A place to find the one person that hasn't been in your life currently",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/misosoup17/thefriendfinder/issues"
   },
-  "homepage": "https://github.com/misosoup17/thefriendfinder#readme"
+  "homepage": "https://github.com/misosoup17/thefriendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node": "^13.6.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
 }
