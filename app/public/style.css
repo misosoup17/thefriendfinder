@@ -1,0 +1,25 @@
+
+.jumbotron {
+    background-color: transparent;
+  }
+  
+  body {
+    background: url("./images/1*ueftdVk_qNG-i1hYW8clXA.jpeg") no-repeat center center fixed;
+    background-size: cover; 
+  }
+
+.panel {
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+#imagepreview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+  font-size: 28px;
+  font-style: italic;
+  font-variant: small-caps;
+}
